@@ -16,7 +16,7 @@ Milestones:
 
 ✅ Integrated GitHub Discussions for team collaboration.
 
-2️⃣ Phase 2: Core Development (In Progress)
+2️⃣ Phase 2: Core Development  (✅ Completed)
 
 Milestones:
 
